@@ -1,0 +1,16 @@
+RESULTADOS PINN HFM
+===================
+
+Puntos de entrenamiento: 1000
+Ruido aplicado: 10.00%
+
+lambda1 = 0.911395
+lambda2 = 0.007319
+Re      = 136.62
+
+L2 u              = 3.014544e-02
+L2 v              = 6.643766e-02
+L2 p bruto        = 6.439664e-01
+MAE p bruto       = 1.333765e-01
+L2 p sin offset   = 2.730759e-01
+MAE p sin offset  = 4.207152e-02
